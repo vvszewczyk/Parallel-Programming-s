@@ -1,5 +1,6 @@
 <h3>Programowanie równoległe. Przetwarzanie równoległe i rozproszone.
-Laboratorium 2</h3>
+
+  Laboratorium 2</h3>
 Cel:
 - przeprowadzenie pomiaru czasu CPU i zegarowego tworzenia procesów i wątków
 systemowych Linuxa
