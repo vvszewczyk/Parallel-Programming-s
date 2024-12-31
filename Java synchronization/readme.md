@@ -71,8 +71,11 @@ powinna umożliwiać każdemu wywołującemu wątkowi (bez przerywania ze strony
 innych wątków) stworzenie ilustracji graficznej, która będzie miała ostateczną postać:
 
 Wątek 1: & ===============
+
 Wątek 2: % ======
+
 Wątek 3: $ ==================
+
 itd.
 
 9. Wariant 2: podział zadania na pod-zadania odbywa się na zasadzie dekompozycji w
@@ -93,9 +96,13 @@ wyświetlać po kolei swoje znaki oraz graficznie (bez przerywania ze strony inn
 wątków) przedstawiać liczbę jego wystąpień, co ma prowadzić do wydruku w postaci:
 
 Wątek 1: & ===============
+
 Wątek 2: % ======
+
 Wątek 3: $ ==================
+
 Wątek 2: @ =========
+
 itd.
 
 11. Rozszerzenie programu o kolejne klasy implementujące interfejs Runnable oraz kolejne
