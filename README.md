@@ -9,7 +9,7 @@ Students learn how to write, analyze, and optimize parallel programs using **Pth
 
 Each folder contains a specific project related to parallel computing, with a **detailed task description** inside. The implementations use **C, C++, and Java** in Linux-based environments.  
 
-### 🔹 Topics Covered
+### Topics Covered
 - **Parallel and Concurrent Processing**  
   Introduction to process and thread management in parallel systems.  
 - **Pthreads (POSIX Threads)**  
